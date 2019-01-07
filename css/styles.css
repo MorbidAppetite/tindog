@@ -136,10 +136,12 @@ text-align: center;
   .media-icons {
     font-size: 2rem;
   }
-  .navbar-toggler-icon {
-    width: 3em;
-    height: 3em;
-  }
+  .navbar-toggler{
+    padding: 5%;
+}
+.navbar-toggler-icon{
+    font-size: 2em;
+}
 }
 
 #cta {
