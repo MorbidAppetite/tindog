@@ -142,6 +142,9 @@ text-align: center;
 .navbar-toggler-icon{
     font-size: 2em;
 }
+.navbar-brand {
+  font-size: 3.2rem;
+}
 }
 
 #cta {
